@@ -175,3 +175,6 @@ Can_Arslan:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,55:0a3d2e,100:0d1117&height=140&section=footer&text=Kod%20%C3%A7al%C4%B1%C5%9F%C4%B1yorsa%20dokunma.&fontColor=ffffff&fontSize=18&fontAlignY=68" width="100%"/>
 
 </div>
+
+<!-- profil README -->
+
