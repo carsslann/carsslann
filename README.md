@@ -138,7 +138,7 @@ Can_Arslan:
 <div align="center">
 
 <!-- Yılan animasyonu — snake.yml GitHub Action output dalına üretir (neon palet) -->
-<img src="https://raw.githubusercontent.com/carsslann/carsslann/output/github-contribution-grid-snake-dark.svg?v=neon3" alt="katkı yılanı" width="100%"/>
+<img src="https://raw.githubusercontent.com/carsslann/carsslann/output/github-contribution-grid-snake-dark.svg?v=neon4" alt="katkı yılanı" width="100%"/>
 
 </div>
 
